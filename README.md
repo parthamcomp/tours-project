@@ -15,4 +15,4 @@ Made in: ReactJS
 
 ### APP PREVIEW
 
-![Birthday Buddy App Preview](https://github.com/parthamcomp/birthday-buddy/blob/main/AppPreview.png?raw=true)
+![Birthday Buddy App Preview](https://github.com/parthamcomp/tours-project/blob/main/AppPreview.png?raw=true)
